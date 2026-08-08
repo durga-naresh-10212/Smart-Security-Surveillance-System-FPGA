@@ -3,7 +3,18 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
 
 ---
+# Smart Security Surveillance System Using FPGA
 
+## Team Project
+
+This repository is a fork of our B.Tech major project developed by our project team.
+
+### My Contribution
+- Designed and implemented Verilog RTL modules.
+- Worked on FPGA control logic.
+- Integrated motion detection with the surveillance system.
+- Performed simulation, testing, and debugging.
+- 
 ## 📌 Project Overview
 
 This project implements a **high-performance, real-time Smart Security Surveillance System** using FPGA technology.  
